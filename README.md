@@ -50,12 +50,12 @@ https://github.com/animesh-anand-dev/Study-Notion-Backend/blob/main/StudyNotion%
 ## Author
 
 <p>
-  <img width="50"align="center" src="https://user-images.githubusercontent.com/64230897/222225914-ed0f7818-df07-467c-84a8-865252cdfa8a.jpg" alt="animesh-anand"/><b align="right"> Animesh Anand </b>
+  <b align="right"> Abhinav Anand </b>
 </p> 
 
-* Website: https://animeshanand.web.app/
-* Github: [@animesh-anand-dev](https://github.com/animesh-anand-dev)
-* LinkedIn: https://linkedin.com/animeshanand
+
+* Github: [@abhi-nav-anand](https://github.com/abhi-nav-anand)
+* LinkedIn: https://linkedin.com/abhinavanand3154/
 
 ## Show your support
 
@@ -63,7 +63,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Animesh Anand](https://github.com/animesh-anand-dev).<br />
-This project is [MIT License](https://github.com/animesh-anand-dev/Study-Notion-Backend/blob/main/LICENSE) licensed.
+Copyright © 2023 [Abhinav Anand](https://github.com/abhi-nav-anand).<br />
+This project is [MIT License](https://github.com/abhi-nav-anand/Study-Notion-Backend/blob/main/LICENSE) licensed.
 
 
