@@ -16,7 +16,7 @@ Study Notion Backend which is a rest web services of **MERN** stack application.
 
 1. Clone the project
 ```
- git clone https://github.com/animesh-anand-dev/Study-Notion-Backend.git
+ git clone https://github.com/abhi-nav-anand/Study-Notion-Backend.git
 ```
 2. Open **[VS Code](https://code.visualstudio.com/)** or any other IDE of your choice open the **Study-Notion-Backend** folder.
 
@@ -45,7 +45,7 @@ Study Notion Backend which is a rest web services of **MERN** stack application.
 😊 Happy Coding 🎉
 
 ## API Reference
-https://github.com/animesh-anand-dev/Study-Notion-Backend/blob/main/StudyNotion%20Final.postman_collection
+https://github.com/abhi-nav-anand/Study-Notion-Backend/blob/main/StudyNotion%20Final.postman_collection
 
 ## Author
 
